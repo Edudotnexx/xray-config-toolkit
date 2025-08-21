@@ -20,7 +20,9 @@ URLS_ENCODE=(
     "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree_nodes_mod.txt"
     "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt"
     "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_google.com_base64.txt"
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
+    "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix"
+    "https://v2.alicivil.workers.dev/?list=100&count=20000&unique=false"
+    "https://raw.githubusercontent.com/gtang8/SubCrawler/main/sub/share/all"
 )
 
 URLS_DECODE=(
